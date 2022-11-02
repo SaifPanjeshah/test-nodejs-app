@@ -12,7 +12,7 @@ pipeline {
      
      stage('Test') { 
         steps { 
-           sh 'echo "testing is done"'
+           sh 'echo "my testing is done"'
         }
       }
 
