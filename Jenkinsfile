@@ -18,7 +18,7 @@ pipeline {
 
          stage("Deploy application") { 
          steps { 
-           sh 'echo "application deployed is done"'
+           sh 'echo "my application deployed is done"'
          }
 
      }
